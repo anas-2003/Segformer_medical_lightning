@@ -45,8 +45,7 @@ Load and convert the image from uint16 to uint8 format using the load_img(...) m
 Get the dataframe group (rows in “train.csv” file) for the image and decode the RLE-encoded mask for each class using rle_decode(...) method for each image. Then the RGB mask is converted to a grayscale mask (single channel) where each pixel value indicates the class ID of the pixel. This process is done using the rgb_to_onehot_to_gray(...) function.
 Save image-mask pair in their respective folders.
 ## Note:
-
+---
 There are additional intermediate steps, such as extracting the folder name, sub-folder name, and image path of the image.
 The train.csv file contains image ids in the format "case<num>_day<num>_slice_<slice_id>". The get_folder_files(...) function, along with returning all the relevant image files in a “case” folder, returns a list of img_ids which has the same format as the “train.csv” id column. This is done to make it easier to fetch the relevant data frame rows during image and mask processing steps.
-
 ---
