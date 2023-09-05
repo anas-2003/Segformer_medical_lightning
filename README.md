@@ -2,7 +2,7 @@
 
 This repository contains the files related to the LearnOpenCV blog post: [Medical Image Segmentation Using 🤗 HuggingFace & PyTorch](https://learnopencv.com/medical-image-segmentation/)
 
-<a href="https://learnopencv.com/medical-image-segmentation/" target="_blank"></a>
+<a href="https://learnopencv.com/medical-image-segmentation/" target="_blank">img src= https://learnopencv.com/wp-content/uploads/2023/07/medical-image-segmentation_competition_dataset_example-1024x269.png</a>
 > Medical image segmentation is an innovative process that enables surgeons to have a virtual "x-ray vision." It is a highly valuable tool in healthcare, providing non-invasive diagnostics and in-depth analysis. With this in mind, in this post, we will explore the UW-Madison GI Tract Image Segmentation Kaggle challenge dataset. As part of this project, we will utilize PyTorch along with PyTorch-Lightning. We will use 🤗 HuggingFace transformers to load and fine-tune the Segformer transformer-based model on the medical segmentation dataset. Finally, we will create a Gradio app for image inference and deploy it on HuggingFace spaces.
 
 ---
