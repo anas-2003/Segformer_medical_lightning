@@ -1,4 +1,4 @@
-# Medical Image Segmentation Using 🤗
+# Medical Image Segmentation🤗
 ---
 Dev: Anas Erami
 ---
