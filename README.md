@@ -1,4 +1,4 @@
-# Medical Image Segmentation Using 🤗 HuggingFace & PyTorch
+# Medical Image Segmentation Using 🤗
 ---
 Dev: Anas Erami
 ---
