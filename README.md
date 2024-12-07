@@ -1,6 +1,6 @@
-# Medical Image Segmentation🤗
+Modified# Medical Image Segmentation🤗
 ---
-Dev: Anas Erami
+Modified
 ---
 
 This repository contains the files related to the LearnOpenCV blog post: [Medical Image Segmentation Using 🤗 HuggingFace & PyTorch]
